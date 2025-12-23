@@ -21,7 +21,6 @@ gem "fiddle"
 gem "base64"
 gem "bigdecimal"
 gem "mutex_m"
-gem "fiddle"
 
 # 윈도우 환경 성능 향상을 위한 설정 (선택 사항)
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
